@@ -6,7 +6,7 @@ Desarrolla una herramienta para que los usuarios puedan almacenar y gestionar su
 | Apellidos y Nombres | Rol |
 |---------------------|-----|
 | Chaupis Fernando, Rodrigo | Scrum Master |
-| Paytan Huaman, Jheyson Paul |
-| Solis Egoavil, Gabriel Ernesto |
-| Quispe Zarate, Julio Cesar |
-| Rojas Lara, Jack Alexander| 
+| Paytan Huaman, Jheyson Paul | Desarrolladores |
+| Solis Egoavil, Gabriel Ernesto | Desarrolladores |
+| Quispe Zarate, Julio Cesar | Desarrolladores |
+| Rojas Lara, Jack Alexander| Desarrolladores |
