@@ -10,3 +10,7 @@ Desarrolla una herramienta para que los usuarios puedan almacenar y gestionar su
 | Solis Egoavil, Gabriel Ernesto | Desarrolladores |
 | Quispe Zarate, Julio Cesar | Desarrolladores |
 | Rojas Lara, Jack Alexander| Desarrolladores |
+## Docente de asignatura
+| Apellidos y Nombres | Rol |
+|---------------------|-----|
+| Gamarra Moreno Daniel |	Encargado de la asignatura |
